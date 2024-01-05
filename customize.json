@@ -1,6 +1,6 @@
 {
-  "greeting": "كيفك",
-  "name": "شفاء!",
+  "greeting": "!كيفك",
+  "name": "شفاء",
   "greetingText": "👋",
   "wishText": "Have a good day!",
   "imagePath": "sanrio.png",
